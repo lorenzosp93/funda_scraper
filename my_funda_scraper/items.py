@@ -35,4 +35,3 @@ class MyFundaScraperItem(Item):
     lat = Field()
     lng = Field()
     neighbourhood = Field()
-    side_of_street = Field()
