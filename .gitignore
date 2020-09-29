@@ -6,8 +6,9 @@
 *.json
 ### config
 config.json
-### notebooks
-my_funda_pipeline/
+### state
+crawls/
+
 
 
 ### Python ###
