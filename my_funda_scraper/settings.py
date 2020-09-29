@@ -77,6 +77,7 @@ ITEM_PIPELINES = {
     'my_funda_scraper.pipelines.LocationPipeline': 500,
     'my_funda_scraper.pipelines.PricingPipeline': 300,
     'my_funda_scraper.pipelines.StripPipeline': 800,
+    'my_funda_scraper.pipelines.DatePipeline': 1000,
     
 }
 
